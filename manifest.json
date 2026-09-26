@@ -1,0 +1,14 @@
+{
+  "name": "MERCEDES FREE - Telefono Cuantico Reparador",
+  "short_name": "Mercedes Free",
+  "description": "Energia Cuantica a Normal - Red en Armonia - Angel Guardian",
+  "start_url": "/TELEFONO-CUANTICO-REPARADOR/",
+  "display": "standalone",
+  "background_color": "#0a0612",
+  "theme_color": "#ffd700",
+  "icons": [{
+    "src": "https://img.icons8.com/fluency/512/gold-bars.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
